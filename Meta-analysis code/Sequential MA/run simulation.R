@@ -7,8 +7,6 @@ library(meta)
 library(ldbounds)
 library(furrr)
 
-setwd("S:/CRD/Mark Simmonds/Cochrane MIF/Simulation studies/main simulation/Analysis 2022")
-
 source("ma simulator.R")
 source("all sequential code.R")
 source("universal analysis code.R")
